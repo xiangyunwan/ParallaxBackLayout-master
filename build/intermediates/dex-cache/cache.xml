@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_ba67316aab3fe920fbd399d049abcd91f65dbc8a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_3f9cf7f423cc8e66a50d80e303d728566150cc5f.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_d344a8b8988b533f57b4c076c62eadb84b0f2cf9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3f4284337ecdff385e02ffa2191c10fc7a7567b9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_0ebc2c8c628e1a9dfce99415e16c9a6e196c49ec.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_ec42ed635f8af96092997acd8b262ef7b755ced9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\exploded-aar\com.github.anzewei\parallaxbacklayout\0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c28a61b9b7a65f10e4c98dd77fb1a3e1f33260b4">
+        <dex dex="D:\android_github\ParallaxBackLayout-master\sample\build\intermediates\pre-dexed\debug\com.github.anzewei-parallaxbacklayout-0.1_96f4d650045da644b7ab4a67e1dd2f5157971799.jar" />
+    </item>
+
+</items>
